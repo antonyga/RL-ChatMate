@@ -8,3 +8,7 @@ Alon Talmor, Jonathan Herzig, Nicholas Lourie, Jonathan Berant
 From: https://arxiv.org/abs/1811.00937
 arXiv:1811.00937v2 [cs.CL]
 
+Official website:
+
+https://www.tau-nlp.sites.tau.ac.il/commonsenseqa
+
