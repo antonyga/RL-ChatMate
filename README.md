@@ -2,8 +2,9 @@
 
 ******* 🚧⚠️ PROJECT IS UNDER CONSTRUCTION ⚠️🚧 *********
 
-
 RL ChatMate is an open-source project aimed at improving chatbot interactions using state-of-the-art reinforcement learning techniques. By fine-tuning language models with human feedback, the main goal is to enhance response quality, coherence, and engagement.
+
+# The dataset
 
 For this project I will be using the **CommonsenseQA dataset**.
 
